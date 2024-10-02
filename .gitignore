@@ -3,3 +3,5 @@ node_modules/
 
 # Ignore .next folder (used by Next.js)
 .next/
+
+.env.local
